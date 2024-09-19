@@ -15,6 +15,5 @@
         "vsls-contrib.gitdoc"
       ]
     }
-  },
-  "postCreateCommand": "yarn && cd client && yarn",
+  }
 }
